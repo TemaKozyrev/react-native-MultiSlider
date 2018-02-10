@@ -31,9 +31,5 @@
   },
   "dependencies": {
     "underscore": "^1.8.3"
-  },
-  "devDependencies": {
-    "react": "15.3.1",
-    "react-native": "0.35.0"
   }
 }
